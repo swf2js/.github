@@ -3,12 +3,11 @@
 
 ## [Japanese]
 swf2jsはエミュレータとして完成し、Next2Dプロジェクトに進化していきます。
+Next2Dプロジェクトは、WebGLの2D描画エンジン、アニメーション制作ができるアニメーションツール、チーム開発をサポートするフレームワークの提供を行なっています。
 
 ## [English]
 swf2js is now complete as an emulator and will evolve into the Next2D project.
-
-## [Chinese]
-swf2js作为一个模拟器现在已经完成，并将发展成为Next2D项目。
+Next2D project provides a WebGL 2D rendering engine, animation tools for creating animations, and a framework to support team development.
 
 ## Links
 - [Next2D WebSite](https://next2d.app)
